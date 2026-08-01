@@ -1,0 +1,5 @@
+{
+  "parks": ["가야산", "북한산"],
+  "check_next_month": true,
+  "quiet_hours": [0, 6]
+}
